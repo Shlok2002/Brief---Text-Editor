@@ -1,3 +1,5 @@
-# Brief---Text-Editor
+# Brief--Text-Editor
 
-https://www.youtube.com/watch?v=wRIUnHO_6KY&list=WL&index=6
+-This ia a simple text editor wriiten in python.
+- Supports most basic functionalities
+- Visit the following [blog] for detailed information.
